@@ -20,7 +20,7 @@ If you want to improve the pool, implementing the connection to geth via IPC ins
 * Start your Ethereum client & enable RPC
 * Run go build pool.go
 * Start the pool server ./pool
-* Point your miner to http://ip:port/miner/<account>.<worker>/<hashrate>
+* Point your miner to http://ip:port/miner/\<account\>.\<worker\>/\<hashrate\>
 
 # Donations
 Donations are always welcome:
